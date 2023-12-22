@@ -7,8 +7,11 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg40489"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="oracle-portrait.svg"
+   inkscape:export-filename="../../../../img/oracle-portrait-4color.png"
+   inkscape:export-xdpi="29.25"
+   inkscape:export-ydpi="29.25"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,19 +26,27 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.54866744"
-     inkscape:cx="328.97888"
-     inkscape:cy="439.24604"
-     inkscape:window-width="1918"
-     inkscape:window-height="1055"
+     inkscape:zoom="0.86010498"
+     inkscape:cx="778.39335"
+     inkscape:cy="646.43272"
+     inkscape:window-width="2158"
+     inkscape:window-height="1415"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1-8"
-     inkscape:snap-nodes="true">
+     inkscape:snap-nodes="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid68380" />
+       id="grid68380"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs40486">
@@ -2632,7 +2643,7 @@
          id="path46312"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 227.76537,72.545629 c -7.06796,43.818461 -93.01989,93.117551 -93.01989,93.117551 l 0.21698,0.78294 c 45.64153,-28.49244 84.36877,-57.92035 93.58824,-91.340526 z"
          id="path47302"
          sodipodi:nodetypes="ccccc" />
@@ -2652,7 +2663,7 @@
          id="path48454"
          sodipodi:nodetypes="cssssscc" />
       <path
-         style="fill:#282a2e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 130.0958,180.49014 c -0.062,12.91857 2.7228,23.02208 3.2343,8.69596 -0.64582,0.84452 -0.65099,0.86651 -0.65099,0.86651 0,0 -0.775,16.65295 -1.93749,-9.4745 -0.44949,0.0924 -0.64582,-0.088 -0.64582,-0.088 z"
          id="path49949" />
       <path
